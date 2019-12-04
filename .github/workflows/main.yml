@@ -16,4 +16,4 @@ jobs:
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
       uses: ValeriuCoban/action-slack@master
       with:
-        args: 'A new commit has been pushed to Ilshidur/action-slack.'
+        args: 'A new commit has been pushed to ValeriuCoban/action-slack.'
